@@ -1,1 +1,0 @@
-create database safari_park;
