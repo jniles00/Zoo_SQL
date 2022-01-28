@@ -1,0 +1,18 @@
+Man-in-the-middle (MITM)
+- Is a cyber attack
+- Involves the victim, something they are trying to access and the MITM.
+
+Different Types:
+- Wifi Eavesdropping: Hacker mimics wifi connection.
+- Email Hijacking: Hacker spoofs email address.
+
+Notable Attacks:
+Belkin wireless router incident in 2013
+- Take over HTTP connections
+- Reroute to Belkin products
+
+Prevention
+- Site uses HTTPS
+- Check email of sender
+- Using firewall
+- Using some form of authentication - such as multi form factor
